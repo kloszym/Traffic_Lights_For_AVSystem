@@ -2,9 +2,9 @@
 
 ## Wprowadzenie
 
-Projekt jest realizacją zadania rekrutacyjnego dla firmy AVSystem. Celem było stworzenie symulacji inteligentnych świateł drogowych, która adaptuje cykle świateł w zależności od natężenia ruchu.
+Projekt jest pomysłem na inteligentne światłą drogowe, które adaptuje cykle świateł w zależności od natężenia ruchu.
 
-Rozwiązanie zostało zaimplementowane w języku **C** z myślą o **łatwej przenośności na platformy embedded**, co było jednym z kluczowych wymagań. Jako interfejs do obsługi plików JSON został wykorzystany skrypt w języku **Scala**.
+Rozwiązanie zostało zaimplementowane w języku **C** z myślą o **łatwej przenośności na platformy embedded**. Jako interfejs do obsługi plików JSON został wykorzystany skrypt w języku **Scala**.
 
 ## Kluczowe cechy i funkcjonalności
 
